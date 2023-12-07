@@ -5,8 +5,9 @@
 -->
 
 I’m currently working on:
-- [MAT - the Mobile Analysis Toolkit](https://github.com/digitalsleuth/mat-cli)
 - [WIN-FOR - Windows Forensics VM](https://github.com/digitalsleuth/win-for)
+- [MAT - the Mobile Analysis Toolkit](https://github.com/digitalsleuth/mat-cli)
+- [peepdf-3 - Python 3 port of peepdf](https://github.com/digitalsleuth/peepdf-3)
 
 Some of my current tools include:
 - [time-decode](https://github.com/digitalsleuth/time_decode) - a python3 timestamp encode/decode tool
